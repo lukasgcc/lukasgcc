@@ -47,10 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lukasgcc/lukasgcc/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/lukasgcc/count.svg?"  />
 </div>
@@ -62,5 +58,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lukasgc&count=1" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<p align="center">"With great power comes great responsibility"</p>
 
 ###
